@@ -1,3 +1,4 @@
+package Array;
 // Kadanes algorithm
 
 public class leetcode_53 {

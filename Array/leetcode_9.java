@@ -1,3 +1,4 @@
+package Array;
 public class leetcode_9 {
     public boolean isPalindrome(int x) {
         if(x == 0) {

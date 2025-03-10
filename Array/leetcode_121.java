@@ -1,3 +1,4 @@
+package Array;
 public class leetcode_121 {
     public int maxProfit(int[] prices) {
         int max_profit = 0;
