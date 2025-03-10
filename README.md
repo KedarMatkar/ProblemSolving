@@ -31,7 +31,13 @@ Each topic contains three difficulty levels: **Easy**, **Medium**, and **Hard**.
 
 ## 📌 Topics Covered (More to be added)
 ✅ Arrays & String
+
 ⏳ More topics coming soon...
 
 ## 🤝 Contributions
 This repo is mainly for my own practice, but if you have better solutions or optimizations, feel free to open a pull request!
+
+⭐ Let's Connect!
+If you found this useful, consider starring 🌟 the repo and connecting with me on LinkedIn 😊.
+```sh
+https://www.linkedin.com/in/kedar-matkar-2a02722ba/
