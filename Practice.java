@@ -1,6 +1,6 @@
 public class Practice {
     public static void calculate(int x, int n) {
-        
+        System.out.println(x+n);
     }
     public static void main(String[] args) {
         calculate(2,5);
